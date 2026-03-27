@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3dd1268a64a8d43ac8de41c4fa6ae4, type: 3}
+  m_Name: MCQ 1
+  m_EditorClassIdentifier: 
+  prompt: "Q.2. In the frog life cycle, which stage comes directly after the tadpole
+    stage? \r"
+  points: 1
+  options:
+  - Eggs
+  - Adult Frog
+  - Tadpole with legs (developed tadpole)
+  - Chrysalis
+  correctIndex: 2
+  shuffleOptions: 1
+  questionVO: {fileID: 8300000, guid: 66298223a35ff114381b98238830bc16, type: 3}
+  optionVO:
+  - {fileID: 8300000, guid: 9d91f9a2778000646aa6cfbb73756314, type: 3}
+  - {fileID: 8300000, guid: 9897c832a2577cb4e9c4a5c9346584c3, type: 3}
+  - {fileID: 8300000, guid: dd0a27dcce0074c4cbe29a0e9de35834, type: 3}
+  - {fileID: 8300000, guid: 84aa56c62d180784b813f19fcca9c011, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3dd1268a64a8d43ac8de41c4fa6ae4, type: 3}
+  m_Name: MCQ 7
+  m_EditorClassIdentifier: 
+  prompt: "\rQ.8. Which pair shows a direct life cycle?\v \r"
+  points: 1
+  options:
+  - Frog & Butterfly
+  - Frog & Chicken
+  - Butterfly & Chicken
+  - Human & Palm tree
+  correctIndex: 3
+  shuffleOptions: 1
+  questionVO: {fileID: 8300000, guid: e79afcfb61cef6a489cf841fcd32b3c8, type: 3}
+  optionVO:
+  - {fileID: 8300000, guid: 90a3d8a0725e6f04b8bc70ab9a8d4936, type: 3}
+  - {fileID: 8300000, guid: 849f3e2891157cf4da6d324f9155fe32, type: 3}
+  - {fileID: 8300000, guid: aed8660fcf42c5e42afde31172d366a5, type: 3}
+  - {fileID: 8300000, guid: f9ff4115b848dbf4090ee5fdd767ae42, type: 3}

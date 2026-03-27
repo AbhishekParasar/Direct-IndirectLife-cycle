@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b4014d3e56243a41a923f8562e875b0, type: 3}
+  m_Name: Butterfly
+  m_EditorClassIdentifier: 
+  organismName: Butterfly
+  nameAudioClip: {fileID: 8300000, guid: 1ec6cae4e9b2bdd45bb4aae1443360ad, type: 3}
+  exploreClickAudioClip: {fileID: 8300000, guid: 630e2a5669196ab45acccd156b001a2b, type: 3}
+  stages:
+  - stageText: "A butterfly starts from a tiny egg laid on a leaf.\r"
+    stageAudioClip: {fileID: 8300000, guid: b0171e00dec8c6244aa90a78bc25866c, type: 3}
+    progressionObjectName: 
+  - stageText: "The caterpillar (larva) hatches and eats lots of leaves to grow.\r"
+    stageAudioClip: {fileID: 8300000, guid: 42e6c020da592c44fa39073e66fd95c2, type: 3}
+    progressionObjectName: 
+  - stageText: "The caterpillar forms chrysalis, Where a big transformation happens.\r"
+    stageAudioClip: {fileID: 8300000, guid: 57742272422bbeb42865409f5ed5c1a9, type: 3}
+    progressionObjectName: 
+  - stageText: "A fully formed butterfly emerges, dries its wings, and takes flight.\r"
+    stageAudioClip: {fileID: 8300000, guid: 573336c55d24a034cbc8fd89eecc8558, type: 3}
+    progressionObjectName: 
+  progressionObjectName: 

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b4014d3e56243a41a923f8562e875b0, type: 3}
+  m_Name: CHICKEN
+  m_EditorClassIdentifier: 
+  organismName: CHICKEN
+  nameAudioClip: {fileID: 8300000, guid: ae5a91817001cf94bae1d7a76db657a6, type: 3}
+  exploreClickAudioClip: {fileID: 8300000, guid: 630e2a5669196ab45acccd156b001a2b, type: 3}
+  stages:
+  - stageText: From a simple egg, a fluffy chick with soft down feathers hatches!
+      Its first job is to eat, walk, and explore its new world.
+    stageAudioClip: {fileID: 8300000, guid: 2932c686d3280eb44be6576d34c1425a, type: 3}
+    progressionObjectName: 
+  - stageText: The chick grows as the days pass, it grows quickly and become bigger
+      and stronger .
+    stageAudioClip: {fileID: 8300000, guid: 9f0678d754e029146843882ec161d7e3, type: 3}
+    progressionObjectName: 
+  - stageText: The female lay eggs in a cozy nest starting the life cycle again.
+      The male watch over the flock. This stage passes life to next generation.
+    stageAudioClip: {fileID: 8300000, guid: ff4b998c39ba4554783bec0679a5b487, type: 3}
+    progressionObjectName: 
+  - stageText: "Every living creature reaches the final stage of its life. After
+      many seasons, the chicken's journey is complete. Though the individual life
+      ends, the entire life cycle\u2014from egg to chick to adult\u2014is ready to
+      begin again.\r"
+    stageAudioClip: {fileID: 8300000, guid: 3dfaea85219609f418f8ac6f309ab358, type: 3}
+    progressionObjectName: 
+  progressionObjectName: 

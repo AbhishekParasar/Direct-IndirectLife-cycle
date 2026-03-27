@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 912a91b5fa0f0ab488f743a4275b2aaf, type: 3}
+  m_Name: Stage_4
+  m_EditorClassIdentifier: 
+  stageImage: {fileID: 21300000, guid: e81903cb2b79d50449d236074b134b32, type: 3}
+  imageScale: {x: 0.7, y: 0.7, z: 0.7}
+  descriptionText: 
+  voClip: {fileID: 0}
+  delayAfterVO: 1

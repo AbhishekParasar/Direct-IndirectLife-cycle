@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b4014d3e56243a41a923f8562e875b0, type: 3}
+  m_Name: phalm tree
+  m_EditorClassIdentifier: 
+  organismName: PALM TREE
+  nameAudioClip: {fileID: 8300000, guid: 8ebf18939f92d464d9142329fdec23ec, type: 3}
+  exploreClickAudioClip: {fileID: 8300000, guid: 630e2a5669196ab45acccd156b001a2b, type: 3}
+  stages:
+  - stageText: "The life of a palm tree begins as a seed. To start growing, the seed
+      needs water, from the soil. \r"
+    stageAudioClip: {fileID: 8300000, guid: e46942cbba5f1974ab56e92a8f79fa6c, type: 3}
+    progressionObjectName: 
+  - stageText: "The seed is thirsty! Click on the watering can to water the seed
+      and help it grow.\r"
+    stageAudioClip: {fileID: 8300000, guid: 697c02efb5f7e6e4fa3351dc1f7d878d, type: 3}
+    progressionObjectName: 
+  - stageText: "\rGermination is the first stage of a plant\u2019s life cycle. A
+      small plant begins to grow from a seed and pushes up through the soil. Tiny
+      roots spread into the ground to take in water and nutrients, while the stem
+      grows up toward the sun. \r"
+    stageAudioClip: {fileID: 8300000, guid: 029d9f10c9378444f86ef5bdf850e20d, type: 3}
+    progressionObjectName: 
+  - stageText: "The seed sprouts and grows as the first leaves appear.\r"
+    stageAudioClip: {fileID: 8300000, guid: 51eaef6ad836ca547b3fe271772f4c44, type: 3}
+    progressionObjectName: 
+  - stageText: "As the sprout grows, it becomes a young palm plant. With water, 
+      sunlight,  and nutrients from the soil, it gets taller and stronger.\r"
+    stageAudioClip: {fileID: 8300000, guid: bc8c7687db247404ab65b42b105a6ad5, type: 3}
+    progressionObjectName: 
+  - stageText: "The young plant becomes an adult mature palm tree. It grows tall
+      and produces fruits with many seeds inside. These seeds can be planted, grow
+      into new palm trees, and the life cycle begins again.\r"
+    stageAudioClip: {fileID: 8300000, guid: 91cb535e999f8c942a37647711e27ea3, type: 3}
+    progressionObjectName: 
+  progressionObjectName: 

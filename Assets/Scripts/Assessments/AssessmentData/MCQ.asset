@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3dd1268a64a8d43ac8de41c4fa6ae4, type: 3}
+  m_Name: MCQ
+  m_EditorClassIdentifier: 
+  prompt: "\rQ.1. Which of the following pairs\_have an indirect life cycle?"
+  points: 1
+  options:
+  - Human and Chicken
+  - Frog and Butterfly
+  - Palm tree and Human
+  - Chicken and Palm tree
+  correctIndex: 1
+  shuffleOptions: 1
+  questionVO: {fileID: 8300000, guid: 0188a5c197f61984e932dabe1fbf6e55, type: 3}
+  optionVO:
+  - {fileID: 8300000, guid: 46c1f319148da6d4da68dc4a66c9377d, type: 3}
+  - {fileID: 8300000, guid: e6dde6cb26b96e0419f99ea9abbf3914, type: 3}
+  - {fileID: 8300000, guid: 906583bf39b3b1a488c2965c8108b967, type: 3}
+  - {fileID: 8300000, guid: 69a54934c8552d54e9cceccb33f4c24f, type: 3}
