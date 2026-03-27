@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 912a91b5fa0f0ab488f743a4275b2aaf, type: 3}
+  m_Name: Stage_3
+  m_EditorClassIdentifier: 
+  stageImage: {fileID: 21300000, guid: e99cdebc9ddc800479591bd650082298, type: 3}
+  imageScale: {x: 0.7, y: 0.7, z: 0.7}
+  descriptionText: As the sprout grows, it becomes a young palm plant. With water, 
+    sunlight,  and nutrients from the soil, it gets taller and stronger.
+  voClip: {fileID: 8300000, guid: bc8c7687db247404ab65b42b105a6ad5, type: 3}
+  delayAfterVO: 1

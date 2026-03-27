@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3dd1268a64a8d43ac8de41c4fa6ae4, type: 3}
+  m_Name: MCQ 4
+  m_EditorClassIdentifier: 
+  prompt: "Q.5. Which of the following is NOT required for a palm seed to germinate?
+    \r"
+  points: 1
+  options:
+  - Proper Temperature
+  - Water
+  - Soil nutrients
+  - Wings for flying
+  correctIndex: 3
+  shuffleOptions: 1
+  questionVO: {fileID: 8300000, guid: 86b57047983b87d4f89d398d04f1ba6c, type: 3}
+  optionVO:
+  - {fileID: 8300000, guid: 125cac787b25f4a49909a3a8047ee2af, type: 3}
+  - {fileID: 8300000, guid: 9abe90e7de8a28e4381a998a9fcd5922, type: 3}
+  - {fileID: 8300000, guid: a5049429c0c18a647988741af2d1d502, type: 3}
+  - {fileID: 8300000, guid: 746db0528f2f83d4fb6bc020c671d64e, type: 3}

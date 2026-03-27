@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d3dd1268a64a8d43ac8de41c4fa6ae4, type: 3}
+  m_Name: MCQ 2
+  m_EditorClassIdentifier: 
+  prompt: "Q.3. Which statement best defines direct development? \r"
+  points: 1
+  options:
+  - Growth happens with little changes in body form
+  - Body form changes dramatically during growth
+  - Organism multiplies only by spores
+  - Life stages are only eggs and adults
+  correctIndex: 0
+  shuffleOptions: 1
+  questionVO: {fileID: 8300000, guid: 26c9fd108e36f214baefb551a26d2f2c, type: 3}
+  optionVO:
+  - {fileID: 8300000, guid: fb865f91e7c676b489c3abfb027c31fd, type: 3}
+  - {fileID: 8300000, guid: 4b3f11c94e978d0449845ef5849afc8e, type: 3}
+  - {fileID: 8300000, guid: 8eb1e765e95eb0b4493fa58404dfa747, type: 3}
+  - {fileID: 8300000, guid: 494626dd20817044d901915dfd8f6d74, type: 3}
